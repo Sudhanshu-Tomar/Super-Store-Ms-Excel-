@@ -59,6 +59,15 @@ NOTE :  "An age equal to or greater than 50 is considered as Senior, an age equa
 
 Dashboard :
 
+![Screenshot (213)](https://user-images.githubusercontent.com/119277783/221359461-e42fbee4-30a2-4aef-974e-bf38f7d816ba.png)
+
+
+
+![Screenshot (214)](https://user-images.githubusercontent.com/119277783/221359480-6404df10-096f-4180-ab05-c38c7950bfb6.png)
+
+
+
+Vedio link :
 https://drive.google.com/file/d/11bU4SZHvvtmWSOcO2VKftr3b19Z9GEa2/view?usp=sharing
 
 
