@@ -1,6 +1,7 @@
 # Super Store 
 
-![images](https://user-images.githubusercontent.com/119277783/221373277-785fa71a-2fee-4c61-a798-7f272cc2abce.jpg)
+
+![e966c10876d34313a88362983003cf73](https://user-images.githubusercontent.com/119277783/221373368-f269fcfa-2720-403f-9cb0-14d98f6ff34e.jpg)
 
 
 
