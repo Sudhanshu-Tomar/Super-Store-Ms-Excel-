@@ -60,6 +60,11 @@ NOTE :  "An age equal to or greater than 50 is considered as Senior, an age equa
 
 Dashboard :
 
+
+[![Video](https://cdn.loom.com/sessions/thumbnails/3b1953b149f141abaed1560b7c20ac48-with-play.gif)](https://www.loom.com/share/3b1953b149f141abaed1560b7c20ac48)
+
+
+
 ![Screenshot (213)](https://user-images.githubusercontent.com/119277783/221359461-e42fbee4-30a2-4aef-974e-bf38f7d816ba.png)
 
 
@@ -68,8 +73,11 @@ Dashboard :
 
 
 
-Dashboard Vedio link :
-https://drive.google.com/file/d/11bU4SZHvvtmWSOcO2VKftr3b19Z9GEa2/view?usp=sharing
+
+
+
+
+
 
 
 
